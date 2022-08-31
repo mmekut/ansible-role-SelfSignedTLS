@@ -1,0 +1,9 @@
+
+certificate:
+    host: fadinggiant
+    domain: fadinggiant.local
+
+ssh:
+    pass: ""
+    path: /home/vagrant/.ssh
+    owner: vagrant
